@@ -1,4 +1,4 @@
-#Asp.Net 6.0 ile CQRS Design Pattern kullanılarak Schdule Task uygulama örneği
+# Asp.Net 6.0 ile CQRS Design Pattern kullanılarak Schdule Task uygulama örneği
  
  Bu proje, Çasgem tarafından düzenlenen eğitmenliğini [Murat YÜCEDAĞ](https://www.udemy.com/user/murat-yucedag-3/) hocamızın yaptığı Full Stack .Net Development eğitimi kapsamında yapılmıştır.
 Projede CQRS design pattern kullanılarak kişinin olaylarını önem sırasına göre sıralayabildiği ve düzenleme yapabildiği panel mevcut. Panel fullcalender kullanılarak yapıldı.
